@@ -18,5 +18,6 @@
   "dependencies": {
     "@trybe/eslint-config-frontend": "^1.11.1",
     "validator": "^13.9.0"
-  }
+  },
+  "type": "module"
 }
