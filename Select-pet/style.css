@@ -1,0 +1,49 @@
+body {
+    background-color: rgb(238, 241, 240);
+}
+
+h1 {
+    color: black;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+}
+
+#dog {
+    margin: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#cat {
+    margin: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#surprise {
+    margin: 10px;
+    background-color: black;
+    color: white;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#image {
+    width: 200px;
+    border: 3px solid white;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+}
